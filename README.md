@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keshav Agarwal</h1>
-<h3 align="center">a 2nd year student at IIT BHU pursuing Mathematics and Computing</h3>
+<h3 align="center">a 4th year student at IIT BHU pursuing Mathematics and Computing</h3>
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
